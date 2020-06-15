@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489795358842",
+    "firebase_url": "https://myanmar-dream.firebaseio.com",
+    "project_id": "myanmar-dream",
+    "storage_bucket": "myanmar-dream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489795358842:android:f6c2a8cee3843a2058abc3",
+        "android_client_info": {
+          "package_name": "com.teamcs.dream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489795358842-mmof9dm2v1t3i8noue736hjhfd9ecf48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5Y0_ucH2Uo9U8LwXf6xGpDLVIrZf77w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489795358842-mmof9dm2v1t3i8noue736hjhfd9ecf48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

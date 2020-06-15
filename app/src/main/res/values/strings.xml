@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">အိမ်မက်ကျမ်း</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_message">လုပ်ဆောင်နေပါသည်.... ခဏစောင့်ပါ</string>>
+    <string name="url">file:///android_asset/index.html</string>
+    <string name="exit_greeting">Press back key to exit</string>
+
+
+    <!-- ads code -->
+    <!-- test ads app id : ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ads_app_id">ca-app-pub-4864304355860813~8495530322</string>
+    <!-- test banner code ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner1">ca-app-pub-4864304355860813/5244460698</string>
+    <!-- test  interstitials ca-app-pub-3940256099942544/1033173712 -->
+    <string name="interstitial1">ca-app-pub-4864304355860813/8992134010</string>
+</resources>
